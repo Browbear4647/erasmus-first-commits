@@ -13,6 +13,7 @@ This is a simple exercise to practice making your first commit.
 ## 👥 Team
 
 | Name | Email | Discord name |
+|Gergana Toncheva Djonova|gerganadjonova149@gmail.com|djonova| 
 |------|-------|-------|
 | Tito Julio González Padial | titojuliogonzalez@gmail.com | tgp034 |
 
